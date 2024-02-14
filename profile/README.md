@@ -16,7 +16,7 @@ In the following, you can find a list of repositories that are part of the Enzym
 
 - [pyEnzyme](https://github.com/EnzymeML/PyEnzyme) - The Python library for handling EnzymeML, including interfaces to COPASI and PySCeS.
 - [EnzymeML Schema](https://github.com/EnzymeML/EnzymeML-Schema) - The XML Schema Definition for EnzymeML.
-- [Lauterbach 2022](https://github.com/EnzymeML/Lauterbach_2022) - Supporting information for the publication [EnzymeML: seamless data flow and modeling of enzymatic data](https://www.nature.com/articles/s41592-022-01763-1), incluing workflows and example files.
+- [Lauterbach 2022](https://github.com/EnzymeML/Lauterbach_2022) - Supporting information for the publication [EnzymeML: seamless data flow and modeling of enzymatic data](https://www.nature.com/articles/s41592-022-01763-1), including workflows and example files.
 
 ## 📚 Publications
 
