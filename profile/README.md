@@ -24,3 +24,7 @@ The following publications provide more information about EnzymeML and its use c
 
 - [EnzymeML—a data exchange format for biocatalysis and enzymology (The FEBS Journal, 2022)](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.16318) - The original publication introducing EnzymeML.
 - [EnzymeML: seamless data flow and modeling of enzymatic data (Nature Methods, 2023)](https://www.nature.com/articles/s41592-022-01763-1) - Application scenarios and use cases for EnzymeML.
+
+## 🤝 EnzymeML Training Course
+
+The [EnzymeML Training course](https://enzymeml.github.io/trainingcourse_website/) is a collaborative project with multiple experimental biocatalysis groups, jointly developing novel tools and standards for FAIR and reproducible data analysis of biocatalytic data.
