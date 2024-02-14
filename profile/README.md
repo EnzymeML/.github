@@ -14,9 +14,9 @@ EnzymeML is compatible with the Systems Biology Markup Language (SBML) and conti
 
 In the following, you can find a list of repositories that are part of the EnzymeML project and its toolbox. We provide a brief description for each repository, but you can find more detailed information in the respective `README` files.
 
-- [pyEnzyme](https://github.com/EnzymeML/PyEnzyme) - The Python library for handling EnzymeML, including interfaces to COPASI and PySCeS.
+- [pyEnzyme](https://github.com/EnzymeML/PyEnzyme) - The Python library for handling EnzymeML.
 - [EnzymeML Schema](https://github.com/EnzymeML/EnzymeML-Schema) - The XML Schema Definition for EnzymeML.
-- [Lauterbach 2022](https://github.com/EnzymeML/Lauterbach_2022) - Supporting information for the publication [EnzymeML: seamless data flow and modeling of enzymatic data](https://www.nature.com/articles/s41592-022-01763-1), including workflows and example files.
+- [Lauterbach 2022](https://github.com/EnzymeML/Lauterbach_2022) - Workflows and example files from [Nature Methods (2023)](https://www.nature.com/articles/s41592-022-01763-1).
 
 ## 📚 Publications
 
