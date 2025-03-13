@@ -1,6 +1,6 @@
 # Welcome to the EnzymeML GitHub!
 
-This organization is home to various useful tools, libraries, and data models revolving around the data exchange format [EnzymeML](https://enzymeml.org).
+This organization is home to various useful tools, libraries, and data models revolving around the data exchange format [EnzymeML](https://realenzymeml.org).
 
 ## What is EnzymeML?
 
